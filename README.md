@@ -14,8 +14,8 @@ The main finding is that the VAR model does not outperform the univariate AR mod
 
 ## Repository Contents
 
-- `euro_area_analysis.ipynb` — analysis for the Euro area
-- `us_analysis.ipynb` — analysis for the United States
+- `code_EU.ipynb` — analysis for the Euro area
+- `code_US.ipynb` — analysis for the United States
 
 ## Authors
 
